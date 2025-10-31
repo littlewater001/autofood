@@ -1,1 +1,2 @@
 # autofood
+[weapon](./weapon.md)
